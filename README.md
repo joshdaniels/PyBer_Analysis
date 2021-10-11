@@ -6,7 +6,7 @@ Analyzing rideshare data
 The purpose of this analysis was to Analyze rideshare data from the company PyBer to determine how the 3 different area types were performing comparatively.
 
 
-## Results:
+### Results:
 
 (Line Graph)
 
