@@ -8,11 +8,13 @@ The purpose of this analysis was to Analyze rideshare data from the company PyBe
 
 ### Results:
 
-(Line Graph)
+![Line Graph](https://github.com/joshdaniels/PyBer_Analysis/blob/main/total-fares-graph.png)
 
-(Data Frame)
 
-(Descriptive df)
+![per-wk](https://github.com/joshdaniels/PyBer_Analysis/blob/main/fares-per-wk-df.png)
+
+
+![descr](https://github.com/joshdaniels/PyBer_Analysis/blob/main/desc-stats-df.png)
 
 as we can see in the data frame, Rural Fares are the highest performing city type when it comes to weekly fares. The timeperiod of the data we are observing is (Jan-Apr 2019)
 
